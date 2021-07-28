@@ -1,5 +1,4 @@
-a=input().split(",")
-print(a)
+a=input("Input :").split(",")
 n=[]
 for i in a:
     l=[]
